@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 start_time=2100
 start_date=$(date +"%Y%m%d")
 end_time=0355
